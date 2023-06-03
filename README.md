@@ -66,3 +66,4 @@ The figure below illustrates this behavior using an example.
 # Modification
 _MIT2_
 ~~2023.03.20.~~
+// SonarLint only found "Extract interface" suggestions
