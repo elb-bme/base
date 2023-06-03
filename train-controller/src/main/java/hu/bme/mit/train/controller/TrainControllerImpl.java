@@ -60,7 +60,6 @@ public class TrainControllerImpl implements TrainController {
         if (currentTime - lastUpdateTime >= updateInterval) {
             followSpeed();
             lastUpdateTime = currentTime;
-        }
-    }
-
+		}
+	}
 }
